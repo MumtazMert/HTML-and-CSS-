@@ -1,0 +1,26 @@
+h2 {
+    background-color: #607d8b;
+    color: #ffffff;
+  }
+
+
+.highlight {
+background-color: blueviolet;
+color: rgb(7, 1, 2);
+  }
+
+
+ #navigation {
+     background-color: cyan;
+color: darkgreen;
+ }
+
+ h1 {
+padding: 35px 70px 50px 90px;
+ }
+
+ h2 {
+     font-size: 40px;
+     width: 20em;
+     font-style: italic;
+ }
